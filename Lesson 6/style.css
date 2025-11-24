@@ -1,0 +1,6 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    background-color: #121212; /* dark gray-black, easier on eyes */
+    color: #e0e0e0;            /* soft light gray for text */
+}
