@@ -23,7 +23,7 @@ body{
     background-color: rgb(107, 107, 202);
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.25s;
+    transition: background-color 0.25s; 
 }
 .buttons:hover{
     background-color: rgb(59, 59, 141);
