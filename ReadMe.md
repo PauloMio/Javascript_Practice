@@ -38,3 +38,4 @@ Lesson 37: ARROW FUNCTION
 Lesson 38: OBJECTS
 Lesson 39: What is this?
 Lesson 40: CONSTRUCTORS
+Lesson 41: Learn JavaScript classes in 6 minutes
